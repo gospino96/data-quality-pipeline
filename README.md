@@ -48,7 +48,7 @@ The goal is to transform raw data into a clean and reliable dataset that can be 
 
 ---
 
-## 📊 Results
+##  Results
 - Successfully removed duplicate records
 - Handled missing values
 - Generated a clean dataset ready for analysis
