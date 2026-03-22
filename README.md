@@ -56,7 +56,7 @@ The goal is to transform raw data into a clean and reliable dataset that can be 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 data-quality-pipeline/
 │
@@ -66,13 +66,13 @@ data-quality-pipeline/
 └── README.md
 ```
 
-## 🚀 Future Improvements
+## Future Improvements
 - Automate pipeline execution
 - Add scheduling (e.g., Airflow)
 - Improve data validation checks
 
 ---
 
-## 💡 Author
+## Author
 Ginna Ospino  
 Data enthusiast transitioning into Data Engineering
